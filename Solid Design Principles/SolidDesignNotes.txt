@@ -1,0 +1,32 @@
+*** Solid desing ***
+
+** Single repositiory **
+
+- The Single Repository principle su mali , veoma korisni saveti kako da se izgradi sistem.
+- Specifiraju da bilo koja klasa treba da ima samo jedan razlog za promenu. (Ako je ima , promene treba napraviti)
+- Ne treba da u jednoj klasi imamo funkcionalnosti i za cuvanje podataka , i export podataka ... (Single repository princip)
+
+** Open - closed principle **
+
+- Primer za filtere ... DA ne bi imali ekspotencijalni rast i da ne bi modifikovali postojece metode uvode se interfejsi.
+
+** Liskov Substitution principle **
+
+- Ideja je da da mi budemo u mogucnosti da zamenimo base tip za pod tip.
+- Ovaj princip govori da mi uvek moramo da imamo mogucnost da upcastujemo tip u nad tip.(base classu)
+
+** Interface segregation principle **
+
+- Kada imamo interfejse koji su suvise veliki, pa kad neko nasledjuje taj interfejs , potrebne su nam samo neke funkcionalnosti ostale nisu. 
+- Razdvojiti ih na vise manjih , tako da one metode koje mozda stvasrno ne trebaju uvek da se implementiraju razdvojimo u drugi interfejs pa da se ukljucuje po potrebi
+- Moze se posle ti manji kombinovati za neke vece slucajeve Iinterface1 : Iinterface2, Iinterface3
+
+** Dependency Inversion Principle **
+
+- High level deo sistema ne sme da zavisi od low level dela
+- Ne smemo da u high level delu pristupamo to jest otkrivamo  privatna polja sa low levela
+- Ako su nam ti podaci potrebni u low level klasi cemo napraviti metod za dohvatanje... Specifiracemo interfejs na primer koja sadrzi metodeza dohvatanje podatka
+
+
+
+

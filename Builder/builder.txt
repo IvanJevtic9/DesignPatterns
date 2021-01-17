@@ -1,0 +1,25 @@
+﻿
+ ** Builder **
+
+- Odlike su da objekat inicijalizujemo step by step
+- FluentAPI , kao i kod entity frameworka, preko apija da kreiramo objekat nekog tipa
+
+
+Ako nas builder koristi fluent interface aproach, imacemo problem kako nasledjivati 
+
+- Ako imamo u prvoj klasi metod za builder, pa u drugoj to nasledimo i zelimo jos jedan api da dodamo
+  Tada nastane problem jer bazna klasa nema referencu na child klasu tako ako se pozove metod iz bazne klase ne mozemo vise pozivati child Apije
+  jer nemamo referencu na child objekat koji moze da koristi child Api fluent metod.
+
+- Ovo cemo uraditi koriscenjem recursive generic pristupom.
+
+
+ ** Functional builder **
+
+- Ideja je da se komande(metode) za inicijalizovanje pamti kao lista komandi , koja kad se pozove metod build primeni sve te metode nad objektom i vrati 
+  kreiran objekat
+
+** Faced builder **
+
+- Koristimo fasadu za ostale buildere
+

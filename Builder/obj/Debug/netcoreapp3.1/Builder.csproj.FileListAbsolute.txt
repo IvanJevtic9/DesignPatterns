@@ -1,0 +1,12 @@
+D:\source\C# repos\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+D:\source\C# repos\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+D:\source\C# repos\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+D:\source\C# repos\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+D:\source\C# repos\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+D:\source\C# repos\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
