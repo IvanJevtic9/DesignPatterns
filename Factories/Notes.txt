@@ -1,0 +1,7 @@
+﻿
+** Factory notes **
+
+ * Motivacija *
+
+ - Logika kreiranja objekata postaje suvise kompleksna
+ - Konstruktori ne opisuju proces koji rade , pa se koristi nesto st ose naziva factory
