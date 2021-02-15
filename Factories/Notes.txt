@@ -5,3 +5,22 @@
 
  - Logika kreiranja objekata postaje suvise kompleksna
  - Konstruktori ne opisuju proces koji rade , pa se koristi nesto st ose naziva factory
+
+ * Postoje dva factory design:
+	- Proper factory (Factory method)
+	- Abstract factory
+
+Konstruktor mora imati isto ime kao klasa , ne mozemo imati dva konstruktora sa istim tipovima argumenata 
+(i sa istim brojem argumenata) , zato koristimo factory metode
+
+Iz solid disign principle , ne bi trebali metode za inicijalizaciju objekta cuvati u okviru te klase , vec to mozemo izdvojiti u okviru
+Factory klase (static metode za kreiranje objekta)
+
+Asynchronous factory method (Asihrona inicijalizacija)
+
+Inner Factory - da bi konstruktor bio private a da bi mogli da mu pristupimo iz drugih klasa , moramo tu klasu kreirati unutar te klase
+kako bi imali pristup private konstruktoru
+
+ * Abstract factory *
+
+ Svrha apstrakte fabrike jeste da povratna vrednost metode bude apstraktni objekat i na taj nacin upotrebu fabrike sto vise generalizujemo.

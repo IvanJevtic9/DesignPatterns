@@ -9,3 +9,16 @@ D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.Assemb
 D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
 D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

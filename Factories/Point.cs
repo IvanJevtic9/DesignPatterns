@@ -5,43 +5,35 @@ using System.Text;
 
 namespace Factories
 {
-    public enum CoordinateSystem
-    {
-        Cartesian,
-        Polar
-    }
     public class Point
     {
         private double x, y;
-        
-        /// <summary>
-        /// Initializes a point from EITHER cartesian or polar
-        /// </summary>
-        /// <param name="a"> x coordinate </param>
-        /// <param name="b"> y coordinate</param>
-        /// <param name="system"> Coordinate system </param>
-        public Point(double a,double b, CoordinateSystem system = CoordinateSystem.Cartesian)
+
+        private Point(double x, double y)
         {
-            switch (system)
+            this.x = x;
+            this.y = y;
+        }
+
+        //public static PointFactory Factory => new PointFactory(); Ako hocemo da imamo static polje i da preko tog
+        // polja direktno pistupamo metodama za kreiranje 
+
+        // public static Point Origin => new Point(0, 0); // Property
+
+        public static Point Origin2 = new Point(0, 0); // Field better (samo jedanput inicijalizujemo)
+
+        public static class Factory
+        {
+            public static Point NewCartesianPoint(double x, double y)
             {
-                case CoordinateSystem.Cartesian:
-                    x = a;
-                    y = b;
-                    break;
-                case CoordinateSystem.Polar:
-                    x = a * Math.Cos(b);
-                    y = b * Math.Cos(a);
-                    break;
-                default: throw new ArgumentOutOfRangeException(nameof(system), system, null);
+                return new Point(x, y);
+            }
+
+            public static Point NewPolarPoint(double rho, double theta)
+            {
+                return new Point(rho * Math.Sin(theta), theta * Math.Cos(rho));
             }
         }
-        /* Ne mozemo imati jos jedan konstruktor sa istim setom promenljivih (istih tipova), u tom slucaju pravimo nove tipove
-        public Point(double rho, double theta)
-        {
-            this.x = rho;
-            this.y = theta;
-        }
-        */
         public override string ToString()
         {
             return $"{nameof(this.x)}: {this.x}\n{nameof(this.y)}: {this.y}";
@@ -49,7 +41,9 @@ namespace Factories
 
         public static void MainFunc(string[] args)
         {
-            var point = new Point(12.32, 45.00, CoordinateSystem.Polar);
+            var point = Point.Factory.NewPolarPoint(Math.PI / 6, Math.PI / 2);
+
+            var p2 = Point.Origin2;
 
             Console.WriteLine(point.ToString());
         }
