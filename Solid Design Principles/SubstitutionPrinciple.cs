@@ -59,7 +59,12 @@ namespace Solid_Design_Principles
         {
             var rc = new Rectangle(2, 3);
 
+            Rectangle square = new Square();
+            square.Height = 3;
+            square.Width = 6;
+
             Console.WriteLine($"{rc} has area: {Area(rc)}");
+            Console.WriteLine($"{square} has area: {Area(square)}");
         }
     }
 }

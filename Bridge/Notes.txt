@@ -1,0 +1,16 @@
+﻿
+*** Bridge ***
+
+Povezivanje komponenti zajedno kroz apstrakciju
+
+** Motivation **
+- Sprecava eksponentni rast kompleksnosti
+
+	Example:
+		- Base class ThreadScheduler
+		- Can be preemtive or cooperative
+		- Can run on Windows or Unix
+		- End up with a 2x2 scenario: WindowsPTS, UNixPTs , WindowsCTS , Unix CTS ...
+
+		=> Bridge pattern sprecava entity explosion
+

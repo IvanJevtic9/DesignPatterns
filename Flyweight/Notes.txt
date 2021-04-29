@@ -1,0 +1,64 @@
+﻿
+ * Flyweight *
+
+ - Space optimization tehnika koja nam omogucuje da koristimo manje memorije cuvanjem externalnih podataka povezanih sa slicnim objektima.
+ - Izbegavanje suvisnosti prilikom skladistenja podataka.
+
+ - Postoji dosta usera sa istim identicnim imenima (first / last) name
+ - Nema potrebe da se one smestaju ubazi iznova i iznova. (Dosta duplikata). Nova tabela ili lista imena i pointers on it.
+
+ - .NET praktikuje string interning. isti string storuje samo jedanput.
+ - Flyweight je ugradjen u okviru .Net-a za mnoge stvari.
+
+ Primer upotrebe.
+
+	- Bold ili italic text. 
+	- Ne zelimo da svaki karakter ima formating karakter.
+	- Primenjujemo na listi (brojeva , reci).
+
+
+
+public class BetterFormattedText
+  {
+    private string plainText;
+    private List<TextRange> formatting = new List<TextRange>();
+
+    public BetterFormattedText(string plainText)
+    {
+      this.plainText = plainText;
+    }
+
+    public TextRange GetRange(int start, int end)
+    {
+      var range = new TextRange {Start = start, End = end};
+      formatting.Add(range);
+      return range;
+    }
+
+    public override string ToString()
+    {
+      var sb = new StringBuilder();
+
+      for (var i = 0; i < plainText.Length; i++)
+      {
+        var c = plainText[i];
+        foreach (var range in formatting)
+          if (range.Covers(i) && range.Capitalize)
+            c = char.ToUpperInvariant(c);
+        sb.Append(c);
+      }
+
+      return sb.ToString();
+    }
+
+    public class TextRange
+    {
+      public int Start, End;
+      public bool Capitalize, Bold, Italic;
+
+      public bool Covers(int position)
+      {
+        return position >= Start && position <= End;
+      }
+    }
+  }

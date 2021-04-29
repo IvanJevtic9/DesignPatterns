@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FJF8k+W1ClJjcHVg3rpR41gdczURUKC3dX0IP/wHDkkOsBu4TQeHda451Fm2LAxAj2Uz1HR+9A9RwRGNziDDA==",
+  "success": true,
+  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Bridge\\Bridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

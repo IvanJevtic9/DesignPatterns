@@ -8,10 +8,11 @@ namespace Factories
         static async Task Main(string[] args)
         {
             Point.MainFunc(args);
-
             await AsyncFactoryMethod.MainFuncAsync(args);
 
-            AbstractFactory.MainFunc(args);
+            //AbstractFactory.MainFunc(args);
+
+            FactoryExercise.MainFunc(args);
         }
     }
 }

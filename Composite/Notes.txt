@@ -1,0 +1,31 @@
+﻿
+ *** Composite ***
+
+ - Individalno tretiranje objekta i agregiranje objekta
+
+ *** Motivation ***
+
+ - Objekti koriste druge objekte kao (fields/properties/members) kroz nasledjivanje i composition
+ - Composition(sastavljen obrazac) nam omogucava da kreiramo sjedinjenje objekata 
+	- Matematicki izraz sastavljen od  jednostavnih izraza 
+	- Grupisanje oblika koji se sastoje od nekoliko oblika
+
+ - Composite design pattern se koristi da tretiramo oba nacina (single ili sastavljen) objekte kao celinu...
+
+ Example: Covek se sastoji iz nekoliko delova , Composite nam omogucava da covek model mozemo da koristimo kao strukturu ,
+ ili da ga posmatramo kroz delove (ruke,noge)
+
+ * Geometric shape *
+
+ - Uobicajna situacija za composite design pattern jeste da unutar same klase imamo listu objekata obicno istog tipa kao i ta klasa
+ - Imamo listu objekata koja pripada toj grupi. Ta grupa moze da se koristi kao nezavistan skup objekata ili moze da se doda u neku novu grupu
+
+ Ruka moze da se doda u grupu za telo ... 
+
+ Summary
+
+ - Objekti mogu d akoriste druge objekte preko nasledjivanja / kompozicije.
+ - Neki composed i pojedinacni objekti moraju da imaju slicno / identicno ponasanje.
+ - Composite design pattern nas tera da sve tipove objekata tretiramo slicno.
+ - C# sadrzi specijalu podrsku za enumerable koncepte : IEnumerable<T> 
+ - Single objekat moze se moze zamotati u collection with yield return this

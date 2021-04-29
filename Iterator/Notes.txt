@@ -1,0 +1,13 @@
+﻿
+ ** Iterator**
+
+ - iteration je jezgro funkcinoalnosti za mnoge data structures.
+ - Iterator je klassa koja omogucava iteraciju.
+	* Zadrzava referencu na trenutnom elementu
+	* Zna da iz trenutnog elementa predje na sledeci element. 
+
+
+	** Iterator je implicitni konstruktor. **
+
+	- .Net gradi a state masinu oko naseg yieald return stanja.
+	- U .Netu ne mora da iteratorb bude objekat , vec to je metod.

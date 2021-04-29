@@ -1,0 +1,17 @@
+﻿
+Adapter 
+
+- Getting the interface you want from the interface you have
+Primer u realnom zivotu (Imamo uredjaj koji se napija na struju, razliciti uredjaji se pune preko razlicitih punjaca (Adapter je punjac)) 
+
+- We can not modify our gadgets to support every possible interface
+
+Special device give us interface we want form the interface we have.
+
+ Adapter => Constructor which adapts an existing interface X to confirm to the required interface Y.
+
+ ** Adapter caching ** 
+ Prilikom izracunavanja nekih stvari cesto se desava da smo za neke ulazne parametre vec izvrsili izracunavanja. Da ne bi opet racunali isto koristimo
+ caching (Ideja je da rezultat nekih izracunavanja zapamtimo kako bi posle vratili vrednost (Da ne racunamo opet))
+
+ ** Generic value adapter **

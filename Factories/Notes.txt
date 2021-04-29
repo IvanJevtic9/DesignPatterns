@@ -24,3 +24,13 @@ kako bi imali pristup private konstruktoru
  * Abstract factory *
 
  Svrha apstrakte fabrike jeste da povratna vrednost metode bude apstraktni objekat i na taj nacin upotrebu fabrike sto vise generalizujemo.
+
+
+
+
+ Summary:
+
+	* Factory emtod je static metod koji kreira objekat
+	* Factory treba da odradi kreiranje objekta za sta je factory namenjen
+	* Factory moze biti izvan ili unutar objekta kao inner klasa
+	* Hijerararhija fabrika moze da se iskoristi za kreiranje srodnih objekata

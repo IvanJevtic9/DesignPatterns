@@ -1,0 +1,14 @@
+﻿
+
+	** Motivation **
+
+- Redosled obradjivaca koji obradjuju dogadjaj jedan za drugim. 
+- Lanac komponenti koji imaju sansu da obrade komandu ili query, opciono imaju default processing implementation i mogucnost da prekinu lanac.
+
+ * Command Query separation *
+
+ Command = zahtev za akciju ili promenu
+ Query = zahtev za informaciju (daj mi sve usere iz srbije)
+
+ - Uvodjenjem objekta u lanac , imamo mogucnost da kontrolisemo redosled.
+ - Nacin da se objekat izbaci iz lanca jeste Dispose()

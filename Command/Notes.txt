@@ -1,0 +1,8 @@
+﻿
+ ** Motivation **
+
+ - Obican C# iskaz je prolazan. (Ne mozemo da uradimo undo fields/property dodelu).
+ - Zelimo objekat koji prestavlja operacije.
+ - GUI commands, multi level undo/redo, macro recording and more.
+
+ Command design pattern je objekat koji prestavlja instrukciju za izvrsavanje odredjene akcije. Sadrzi sve informacije neophodne da akicja bude izvrsena.

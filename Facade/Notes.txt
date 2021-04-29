@@ -1,0 +1,9 @@
+﻿
+
+- Izlaganje nekoliko komponenti kroz jedan interfejs
+
+Motivacija:
+	- Pokusava da izbalansuje complexity i upotrebljivost
+	- Pravimo fasadu da bi obezbedili jednostavniji API nad skupom klasa
+	- Ponekad zelimo da prikazemo internals (podatke) kroz fasadu
+	- Mozemo dozvoliti korisnicicma da koriste vise kompleksne API-je ako to i zele

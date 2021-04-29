@@ -4,7 +4,6 @@ D:\source\C# repos\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.ru
 D:\source\C# repos\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.runtimeconfig.dev.json
 D:\source\C# repos\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.dll
 D:\source\C# repos\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.pdb
-D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csprojAssemblyReference.cache
 D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.AssemblyInfoInputs.cache
 D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.AssemblyInfo.cs
 D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.dll
@@ -23,3 +22,5 @@ C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Facto
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.dll
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.pdb
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.genruntimeconfig.cache
+D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csproj.CoreCompileInputs.cache
+D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csprojAssemblyReference.cache

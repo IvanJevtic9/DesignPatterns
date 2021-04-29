@@ -1,0 +1,16 @@
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\Dynamitey.dll
+D:\source\C# repos\DesignPatterns\Proxy\bin\Debug\netcoreapp3.1\ImpromptuInterface.dll
+D:\source\C# repos\DesignPatterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CopyComplete

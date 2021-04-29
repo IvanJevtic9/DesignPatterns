@@ -1,0 +1,74 @@
+﻿
+* Singleton *
+
+ - Motivation
+
+ * Za neke komponente , jedino smisla ima da u celom sistemu imamo jednu instancu iste.:
+	- Npr. database
+	- Object factory - nema state iz tog razloga nam ne trebaju vise instanci factorija
+
+ * Constructor poziv je skupa operacija
+	- Konstruktor zovemo samo jednom prilikom instanciranja.
+	- Obezbedjujemo sve sa istom instancom 
+ 
+ * Ono sto svakako zelimo jeste da sprecimo bilokoga da kreira dodatne kopije tog objekta.
+ * Potrebno je da vodimo racuna o lenjom instanciranju i bezbednosti niti. Ne sme da postoji mogucnost da se konstruktor izvrsi dva puta , nekog utrkivanja.
+ 
+ Singleton je komponenta koja se instancira jednom i samo jednom . Singelton patern treba da spreci da imamo vise objkekata ovog tipa.
+ Ima jedno mesto u memoriji i preko nekog DI ili globalne vidljivosti mozemo pristupiti toj istanci.
+
+ Singleton implementation 
+ 
+ - Autofac (nuget paket) - Ioc (Inversion of control) Container za registorvanje singleton objekata, servisa ... On upravlja njima (safe-thread)
+   Autofac is an IoC container for Microsoft .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.
+ - MoreLinq
+  This project enhances LINQ to Objects with the following methods: Acquire, Aggregate (some EXPERIMENTAL), AggregateRight, Append, Assert, AssertCount, AtLeast, AtMost, Await (EXPERIMENTAL),
+  AwaitCompletion (EXPERIMENTAL), Backsert, Batch, Cartesian, Choose, CountBetween, CompareCount, CountBy, CountDown, Consume, DistinctBy, EndsWith, EquiZip, Evaluate, Exactly, ExceptBy,
+  Exclude, FallbackIfEmpty, FillBackward, FillForward, Flatten, Fold, ForEach, From, FullGroupJoin, FullJoin, Generate, GenerateByIndex, GroupAdjacent, Index, IndexBy, Insert, Interleave,
+  Lag, Lead, LeftJoin, MaxBy, Memoize (EXPERIMENTAL), MinBy, Move, OrderBy, OrderedMerge, Pad, PadStart, Pairwise, PartialSort, PartialSortBy, Partition, Permutations, Pipe, Prepend, PreScan,
+  Random, RandomDouble, RandomSubset, Rank, RankBy, Repeat, Return, RightJoin, RunLengthEncode, Scan, ScanBy, ScanRight, Segment, Sequence, Shuffle, SkipLast, SkipUntil, Slice, SortedMerge,
+  Split, StartsWith, Subsets, TagFirstLast, TakeEvery, TakeLast, TakeUntil, ThenBy, ToArrayByIndex, ToDataTable, ToDelimitedString, ToDictionary, ToHashSet, ToLookup, Trace, Transpose,
+  TraverseBreadthFirst, TraverseDepthFirst, TrySingle (EXPERIMENTAL), Unfold, Window, WindowLeft, WindowRight, ZipLongest, ZipShortest
+
+ - NUnit
+ NUnit features a fluent assert syntax, parameterized, generic and theory tests and is user-extensible.
+ This package includes the NUnit 3 framework assembly, which is referenced by your tests. You will need to install version 3 of the nunit3-console program or a third-party runner that supports
+ NUnit 3 in order to execute tests. Runners intended for use with NUnit 2.x will not run NUnit 3 tests correctly.
+
+ Kako spreciti da se kreira neka klasa (da ima samo jednu istancu) ? Constructor da bude private , druga stvar jeste da napravimo static property koji poziva taj tip
+
+ private KLASA instance = new KLASA(); // Pravimo private instancu
+ public KLASA Instance { get{return instance;}} // Pristupamo toj istanci na ovaj nacin
+
+ Problemi ovakve implementacije SingletonImpl je testiranje
+
+ Nunit lib - Potrebno je zarad pokretanja skinuti Microsoft.NET.Test.Sdk nuget paket takodje
+ Recimo kad testiramo neke vrednosti iz baze na primer (koju smo implementirali kao singleton) testiranje nekih stvarnih vrednosti zahteva od nas da znamo tacne vrednosti u bazi.
+ Ako se onda desi neka azuriranja na bazom , izbrise se neki record , to moze uticati na test ... Moramo ponovo da menjamo vrednosti sa kojim uporedjujemo... 
+ NAs metod koristi Singleton.Instance i problem je to zameniti ... Zato koristimo Ioc, da u testu taj deo mozemo da zamenimo sa necim drugim i da vrednosti u bazi fake-amo kako bi test
+ uvek prolazio.
+
+ Ovo mozemo da resimo preko Ioc ili Dipendency injection-a
+
+ * Singleton in depedency injection *
+
+ Mono state pattern - da private polja budu static ... Bizaran nacin za singleton
+
+ class CEO {
+	private static int age;
+	private static string name;
+
+	public int Age {get {return age;} set {age = value;}}
+	public string Name {get {return name;} set {name = Name;}}
+
+	public CEO() {
+	
+	}
+ }
+  Konstruktor jeste public ali private static polja sprecavaju da imamo 2 objekta ove klase sa razlicitim vrednostima za age i name iz razloga jer se 
+  static polja cuvaju na jedinstvenom mestu u memoriji i jedinstvena su.
+
+  Per-Thread singleton - po threadu singleton ,razliciti threadovi , drugi singleton.
+
+  * Ambient context *
+

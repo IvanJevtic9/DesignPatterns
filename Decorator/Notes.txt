@@ -1,0 +1,25 @@
+﻿
+* Decorator *
+
+Dodavanje logike (ponasanja) bez menjanja same klase.
+
+	Motivation
+
+- Ocemo da uvecamo objekat sa dodatnom funcionalnoscu.
+- Ne zelimo da rewrite-ujemo ili menjamo existing code.
+- Zelimo da drzimo nove funkcionalnosti odvojeno
+- Potrebno je da budemo u mogucnosti da interaktujemo sa postojecom strukturom.
+
+ * Dve opcije *
+	- Nasledjivanje obaveznog objekta ako je moguce . neki objekti su sealed
+	- U slucaju da su neke klase sealed , koristimo decorator - koji jednostavno referencira decorated objekat
+
+	Decorator jeste ukljuciti u okviru druge klase property klase ciju funkcionalnost zelimo da iskoristimo.
+
+	- Multiple class inheritance problem.
+	- Multiple interface is solution
+
+	Dynamic decorator - Klasas koja je bila nasledjivana od strane vise tipova , i koja se posle u nekim klasama koristi kao Decorator.
+	=> rezultat da mozemo vise tipova da koristimo kao taj dekorator. 
+
+	Problem moze biti decorator cicles.

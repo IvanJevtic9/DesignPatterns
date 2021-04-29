@@ -50,26 +50,85 @@ namespace Factories
 
     public class HotDrinkFactory
     {
-        public enum AvailableDrink
-        {
-            Coffee,
-            Tea
-        }
+        // Ovoim enumom rusimo open-closed prinicp , jer ako dodajemo neki noviu tip pica bez dodavanja u enum , to nam nece raditi ... Zelimo
+        // neki interaktivniji pristup svemu ovome.
+        //public enum AvailableDrink   
+        //{
+        //    Coffee,
+        //    Tea
+        //}
 
-        private Dictionary<AvailableDrink, IHotDrinkFactory> drinks = new Dictionary<AvailableDrink, IHotDrinkFactory>();
+        //private Dictionary<AvailableDrink, IHotDrinkFactory> drinks = new Dictionary<AvailableDrink, IHotDrinkFactory>();
+
+        //public HotDrinkFactory()
+        //{
+        //    foreach (AvailableDrink ad in Enum.GetValues(typeof(AvailableDrink)))
+        //    {
+        //        // Kreira istancu odredjenog tipa Factories.CoffeeFactory (klase)
+        //        var factory = (IHotDrinkFactory)Activator.CreateInstance(Type.GetType("Factories." + Enum.GetName(typeof(AvailableDrink), ad) + "Factory"));
+        //        drinks.Add(ad, factory);
+        //    }
+        //}
+
+        //public IHotDrink MakeDrink(AvailableDrink drink)
+        //{
+        //    return drinks[drink].Prepare();
+        //}
+
+        private List<Tuple<string, IHotDrinkFactory>> factories = new List<Tuple<string, IHotDrinkFactory>>();
 
         public HotDrinkFactory()
         {
-            foreach (AvailableDrink ad in Enum.GetValues(typeof(AvailableDrink)))
+            foreach (var t in typeof(HotDrinkFactory).Assembly.GetTypes())
             {
-                var factory = (IHotDrinkFactory)Activator.CreateInstance(Type.GetType("Factories." + Enum.GetName(typeof(AvailableDrink),ad) + "Factory"));
-                drinks.Add(ad, factory);
+                // Ovako proveravamo da li t moze da se konvertuje u ovaj tip(Da li ta vrednost moze da joj se dodeli)
+                // Preko assenblija ovo podrzava plugin arhitekturu , jer plugin ce imati isti namespace ako ocemo nesto da overajdamo dodamo
+                if (typeof(IHotDrinkFactory).IsAssignableFrom(t) && !t.IsInterface)
+                {
+                    factories.Add(Tuple.Create(
+                            t.Name.Replace("Factory", string.Empty),
+                            (IHotDrinkFactory)Activator.CreateInstance(t)
+                        ));
+                }
             }
         }
 
-        public IHotDrink MakeDrink(AvailableDrink drink)
+        public List<string> GetAvailableDrinks()
         {
-            return drinks[drink].Prepare();
+            var drinks = new List<string>();
+
+            foreach (var drink in factories)
+            {
+                drinks.Add(drink.Item1);
+            }
+            return drinks;
+        }
+
+        public IHotDrink MakeDrink()
+        {
+            Console.WriteLine("Available drinks");
+            var availableDrinks = GetAvailableDrinks();
+
+            for (var index = 0; index < availableDrinks.Count; index++)
+            {
+                Console.WriteLine($"{ index }: {availableDrinks[index]}");
+            }
+            while (true)
+            {
+                string s;
+                Console.Write("Please pick drink from the menu: ");
+                if((s = Console.ReadLine()) != null &&
+                    int.TryParse(s, out int i) &&
+                    i >= 0 &&
+                    i < availableDrinks.Count)
+                {
+                    return factories[i].Item2.Prepare();
+                }
+                else
+                {
+                    Console.WriteLine("Wrong input, please enter right number of the drink.");
+                }
+            }
         }
     }
 
@@ -78,11 +137,12 @@ namespace Factories
         public static void MainFunc(string[] args)
         {
             var drinkFactory = new HotDrinkFactory();
-            var tea = drinkFactory.MakeDrink(HotDrinkFactory.AvailableDrink.Tea);
-            var coffee = drinkFactory.MakeDrink(HotDrinkFactory.AvailableDrink.Coffee);
 
-            tea.Consume();
-            coffee.Consume();
+            while (true)
+            {
+                var drink = drinkFactory.MakeDrink();
+                drink.Consume();
+            }
         }
     }
 }

@@ -1,0 +1,16 @@
+﻿
+Interpreter
+
+- Tekstualni ulaz koji mora da se procesuira. (Pretvori u OOP strukturu)
+
+Primeri:
+    - Programski jezicki kompajleri, interpreteri i IDEs (integrated developer enviroments)
+    - Html i XML
+    - Numeric expression (3+4/5)
+    - Regular expression
+
+    -Turning strings into OOP based structures in a complicated process
+
+
+    Komponenta koja zna kako da struktuira text data. To funkcionise tako sto ulaz razdvajamo u leksicke tokene (da li je operacija , promenljiva, tip) a onda
+    intepretiranje sekvenci tokena (parsiranje - dodavanje semantike).

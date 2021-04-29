@@ -1,0 +1,60 @@
+﻿
+- Proxu notes
+
+* Generalno prestavlja interfejs za pristupanje odredjenim resursima.
+
+* Motivation *
+ 
+ - Imamo lsedeci slucaj: 
+	
+	Pozivamo foo.Bar() , ovo pretpostavlja to da je foo isti proces kao Bar()
+	Sta raditi kada kasnije zelimo da sve Foo-povezane operacije zelimo da odvojimo u razlicite procese ??? Da li mozemo izbeci menjanje koda ?
+
+	Tu na scenu stupa proxy !!! Isti interfejs a potpuno drugacije ponasanje.
+	Ovo se naziva comunication proxy.
+
+	Imamo pored ovog logging, virtual , guarding proxies.
+
+**************************************************************************************
+
+Klasa koja funkcionise kao interfejs za odredjeni resurs.
+Taj resurs moze biti udaljen, skup za konstruisanje, ili mozda zahteva logovanje ili neke druge dodate funkcionalnosti.
+
+Ne dodajemo nove clanove klase ...
+
+ * Value proxy *
+
+ - Imamo metod , i kao ulazni parametar zelimo vrednost koja mora da zadovolji neke vrednosti. Value proxy je resenje za ovo.
+ - Wrapper oko value tipa koji omogucava konvertovanje.
+
+ * Composite proxy example * 
+ -  Performance improvment. 
+
+ * Proxy vs Decorator *
+
+ - Proxy obezbedjuje identicne interfejse(Dodavanje nekih stvari sto se tice konverzije). Decorator obezbedjuje unapredjene interfejse(dodatne funkcionalnosti).
+ - Dekorator tipicno sumira(agregira) (ili ima referencu na) ono sto ukrasava (Tipicno prima decorated object kao construc object). Proxy ne.
+ - Proxy mozda cak i ne radi sa meterijalizovanim objektima (objekti koji su instancirani). 
+   Primer je da imamo da Proxy obezbedjuje interfajse preko objekta koji jos nije konsturisan (lazy object). Konstruisace se prvi put kad ga pozovemo
+
+   * View model example *
+   - nekad zelimo da povezemo objekat ka user interfejsu. I u tom slucaju zelimo dodatne funkcionalnosti na objektu koji obezbedjuje. 
+   - Na primer propertyChange notification , validation.
+
+   * Bit Fragging *
+
+   BitArray BitArray32
+
+   Problem: 
+   1 3 5 7 - Imamo date brojeve. Zadatak je staviti operatore izmedju njih tako da na kraju dobijemo neki broj. Ako je to moguce
+   0 1 2 ... 10 zelimo da dobijemo
+   Zelimo 0 = 1 - 3 - 5 - 7
+   Imamo cetiri vrste operatora koje mozemo da koristimo * / + - (00 01 10 11) Ako bi to prestavili kao bitove. (Usteda memorije)
+
+
+   * Summary *
+
+   - Proxy ima isti interfejs kao i objekatna kom lezi.
+   - Da bi kreirao proxy, jednostavno prepisi postojeci interfejs objekta
+   - Dodaje znacajnu funkcionalnost redefinisanom clanu funkcije
+   - Razlicite vrste proxy-ja imaju razlicita ponasanja kao rezultat primene.

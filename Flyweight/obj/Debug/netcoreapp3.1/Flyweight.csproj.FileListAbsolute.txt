@@ -1,0 +1,16 @@
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\dotMemory.Unit.dll
+D:\source\C# repos\DesignPatterns\Flyweight\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CopyComplete
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+D:\source\C# repos\DesignPatterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache

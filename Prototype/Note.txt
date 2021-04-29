@@ -1,0 +1,23 @@
+
+* Prototype 
+
+Motivacija za ovaj dizajn patern jeste kad nam je lakse da kopiramo postojeci objekat u ponovno inicijalizovan novi. (Object copy)
+
+- Complicated objects aren't designed from scratch 
+    * Reiteracija kroz postojeci dizajn , unapredjujuci ga... 
+- Postojeci (parcijalno ili potpuno konstruisan) dizajn je Prototype
+- Pravimo kopiju (klon) prototipa i customizujemo ga
+    * Deep copy (Ne kopiramo samo objekat vec i sve njegove reference)
+- Treba da proces kloniranja napravimo da bude prikladan (Preko Factory)
+
+
+IClonable example:
+
+Da bi moglo da se radi deep cloniranje mora da se svaka referenca (klasa unutar klase) implementira IClonable interfejs
+Mana sto vraca object type , mora da se customizuje kako bi se pristupilo poljima. 
+
+Copy constructor - dolazi iz C++
+
+parametar copy constructora je objekat te klase, koji ce se kopirati u novu instancu (deep copy)
+
+IDeepCopy interface - je bolja varijanta od IClonable jer tu ne moramo da radimo cast na kraju - specifiramo povratnu vrednost

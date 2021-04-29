@@ -22,3 +22,5 @@ C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+D:\source\C# repos\DesignPatterns\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
