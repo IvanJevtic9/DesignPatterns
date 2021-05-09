@@ -1,12 +1,14 @@
-﻿using System;
+﻿using Iterator.Exercise;
+using System;
 
 namespace Iterator
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //IteratorObject.MainFunc(args);
+            IteratorExercise.MainFunc(args);
         }
     }
 }

@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\C# repos\\DesignPatterns\\Facade\\Facade.csproj": {}
+    "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Facade\\Facade.csproj": {}
   },
   "projects": {
-    "D:\\source\\C# repos\\DesignPatterns\\Facade\\Facade.csproj": {
+    "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Facade\\Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\C# repos\\DesignPatterns\\Facade\\Facade.csproj",
+        "projectUniqueName": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Facade\\Facade.csproj",
         "projectName": "Facade",
-        "projectPath": "D:\\source\\C# repos\\DesignPatterns\\Facade\\Facade.csproj",
-        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\C# repos\\DesignPatterns\\Facade\\obj\\",
+        "projectPath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Facade\\Facade.csproj",
+        "packagesPath": "C:\\Users\\IvanJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Facade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\IvanJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

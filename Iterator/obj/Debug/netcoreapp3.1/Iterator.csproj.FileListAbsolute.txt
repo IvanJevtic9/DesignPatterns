@@ -1,0 +1,12 @@
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

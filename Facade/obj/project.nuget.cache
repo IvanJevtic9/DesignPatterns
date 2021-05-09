@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjWg0uOZIDy5MBhUpqiOcs4F1hsdE77MfMDM6oeXu84A4hiVZXHyTFsbIbbZVI/ImWgWTM65PuF46d9eidNG9A==",
+  "dgSpecHash": "0ilKUp6roWev5N+yBO0AdZsqEDmxRTrtPZ2km2l+RnA9rSl3zjj0gKCv8e0vaIWWOhLZ92/PIQtYEmyGHMQrdw==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Facade\\Facade.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Facade\\Facade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

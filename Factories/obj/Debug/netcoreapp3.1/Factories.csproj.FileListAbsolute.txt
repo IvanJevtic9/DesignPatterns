@@ -9,18 +9,17 @@ D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.As
 D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.dll
 D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.pdb
 D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.genruntimeconfig.cache
+D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csproj.CoreCompileInputs.cache
+D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csprojAssemblyReference.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.exe
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.deps.json
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.runtimeconfig.json
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.runtimeconfig.dev.json
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.dll
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\bin\Debug\netcoreapp3.1\Factories.pdb
-C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csprojAssemblyReference.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.AssemblyInfoInputs.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.AssemblyInfo.cs
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csproj.CoreCompileInputs.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.dll
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.pdb
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.genruntimeconfig.cache
-D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csproj.CoreCompileInputs.cache
-D:\source\C# repos\DesignPatterns\Factories\obj\Debug\netcoreapp3.1\Factories.csprojAssemblyReference.cache

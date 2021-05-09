@@ -19,3 +19,23 @@ D:\source\C# repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\nunit.core.d
 D:\source\C# repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\nunit.core.interfaces.dll
 D:\source\C# repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\nunit.util.dll
 D:\source\C# repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\nunit.core.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\nunit.core.interfaces.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\nunit.util.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

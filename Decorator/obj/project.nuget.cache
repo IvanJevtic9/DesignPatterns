@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TSqs49ziUaaWEkuJprcdSEnsQ+mhfav2XkhLt3wDH78hoMifVtVmB1d3+OlEyDMOkd+UiU7tIvPDPetu17y81A==",
+  "dgSpecHash": "Z1iDsFFU8KLAPc4cW9tafYGRnmCglhmy1SmYIC9QNieuXyHZ+Xfgkt9FuG110HsxfziWl5V/Px7XAnMa17ZjXA==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Decorator\\Decorator.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Decorator\\Decorator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MSI\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\IvanJ\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

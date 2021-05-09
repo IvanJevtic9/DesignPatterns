@@ -11,3 +11,15 @@ D:\source\C# repos\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.csproj
 D:\source\C# repos\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.dll
 D:\source\C# repos\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.pdb
 D:\source\C# repos\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\bin\Debug\netcoreapp3.1\Command.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache

@@ -11,3 +11,15 @@ D:\source\C# repos\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interprete
 D:\source\C# repos\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
 D:\source\C# repos\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
 D:\source\C# repos\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\bin\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.genruntimeconfig.cache

@@ -17,3 +17,22 @@ D:\source\C# repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.ge
 D:\source\C# repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
 D:\source\C# repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\nunit.framework.dll
 D:\source\C# repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\capitals.txt
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CopyComplete
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

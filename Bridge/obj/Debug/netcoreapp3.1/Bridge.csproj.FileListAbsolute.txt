@@ -14,3 +14,18 @@ D:\source\C# repos\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.C
 D:\source\C# repos\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
 D:\source\C# repos\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
 D:\source\C# repos\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CopyComplete
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache

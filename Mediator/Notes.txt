@@ -1,1 +1,16 @@
 ﻿
+	** Motivation **
+
+ - Olaksava komunikaciju izmedju komponenti.
+ - Komponente mogu da budu unutar i van sistema u bilo kom trenutku.
+ 
+ - Primer: 
+
+	- Chat room participant
+	- Players in an MMORPG
+
+ Nema smisla da svaki od ucesnika ima direktnu referencu jedan na drugi. Jer te reference mogu da se ugase u bilo kom trenutku.
+ - Resenje jeste da imamo centralnu komponentu koja ce da olaksava komunikaciju izmedju komponenti.
+
+- Mediator je komponenta koja olaksava komunikaciju uzmedju drugih komponenti bez obaveze da komponente budu svesne postojanja
+ jedne druge ili da imaju direktne reference jedne na drugu.

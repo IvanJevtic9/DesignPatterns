@@ -11,3 +11,8 @@
 
 	- .Net gradi a state masinu oko naseg yieald return stanja.
 	- U .Netu ne mora da iteratorb bude objekat , vec to je metod.
+
+- Iterator specifira kako mozemo da obilazimo kroz objekat.
+- Iterator objekat za razliku od metode ne moze da bude rekurzivna.
+- Generalno IEnumerable<T> returning metod je dovoljan
+- Iterator radi kroz duck typing - potrebno je da imamo GetEnumerator() koji yield-uje tip koji ima Current(trenutni element) i MoveNext() metod.

@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PLWGtwAaB8YyUyjl6ghGgWecTjvEibxrdYEal61mpNLIErV+78u4ySlmBi6JEVbKcfUKWuLn6n8Cq7SWfZdA3w==",
+  "dgSpecHash": "qv7YOiNDc+QwFmQrQoKfhaw1TZ2P1CqXMfrdVWGn8KAVbbdYILhQ+wA76Sewi+2yhf1bWLkAMJLNey5VKacERg==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Singleton\\Singleton.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MSI\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\IvanJ\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

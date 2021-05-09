@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4BCaZSl6P+PDlNwORybEEQmAW3iajTOifbUgM7Ey/7o6K+R2KykCAIJD89RUgX/+g4cqXHhYXYnq8kZ2dF0cuQ==",
+  "dgSpecHash": "97eLuy5z4W4c3LfGLD+ZGlz7MVnutKKM7lsZVAK8PZQ/H1X2xLkEiuMHEZK7ijbYwxy3E2iKqT1w5lDV7v9MXA==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Composite\\Composite.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Composite\\Composite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

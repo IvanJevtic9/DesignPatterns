@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+wyF7EOGYheDfV5lDgiJcAPJ2N9Y2kn9gKpkfgw22f3dO/R4bKnrc9VDBZmzq/GLYzzYvEl63cCMCBEtioGi4A==",
+  "dgSpecHash": "OJ4abQHMsDRh62OWW8dXSx6nt6Z2bK6/4uZUqlJpdQzlYQEjdYmvXTA0xDhXxRUc2f4kJ9USaRGHEj83VyOBTw==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Mediator\\Mediator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Mediator\\Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IvanJ\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

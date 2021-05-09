@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q/xUUF1YT7ETv+B8/euWanFl4Jon5m0RIeZKr0Qo+oItgjVO3SWtYrWTtY7Kqs0zT/6sRnut86yXmv+L7OgDag==",
+  "dgSpecHash": "Yb9DFlEaaVzYfUZrmaUsXr6y7vM5y2VKgDaFjyj7cVrNfpCY8uF3kd5ZxRuvG6ZHDo/RYi9U0yND+ELIgxPFzA==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Factories\\Factories.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Factories\\Factories.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

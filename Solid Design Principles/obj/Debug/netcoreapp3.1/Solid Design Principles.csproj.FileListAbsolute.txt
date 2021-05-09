@@ -9,18 +9,17 @@ D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.
 D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.dll
 D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.pdb
 D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.genruntimeconfig.cache
+D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.csproj.CoreCompileInputs.cache
+D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.csprojAssemblyReference.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\bin\Debug\netcoreapp3.1\Solid Design Principles.exe
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\bin\Debug\netcoreapp3.1\Solid Design Principles.deps.json
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\bin\Debug\netcoreapp3.1\Solid Design Principles.runtimeconfig.json
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\bin\Debug\netcoreapp3.1\Solid Design Principles.runtimeconfig.dev.json
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\bin\Debug\netcoreapp3.1\Solid Design Principles.dll
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\bin\Debug\netcoreapp3.1\Solid Design Principles.pdb
-C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.csprojAssemblyReference.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.AssemblyInfoInputs.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.AssemblyInfo.cs
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.csproj.CoreCompileInputs.cache
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.dll
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.pdb
 C:\Users\IvanJ\Desktop\C#\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.genruntimeconfig.cache
-D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.csproj.CoreCompileInputs.cache
-D:\source\C# repos\DesignPatterns\Solid Design Principles\obj\Debug\netcoreapp3.1\Solid Design Principles.csprojAssemblyReference.cache

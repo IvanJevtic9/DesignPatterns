@@ -11,3 +11,15 @@ D:\source\C# repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.C
 D:\source\C# repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
 D:\source\C# repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
 D:\source\C# repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

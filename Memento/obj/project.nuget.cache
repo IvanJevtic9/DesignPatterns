@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WKmOapOY++aFVScCIt/U1r0mKreDKREHSFsEUIQAmnxRv8YJFZVc12epDtKZbmYUVGhjLnV9SWppfaHjRiVLDQ==",
+  "dgSpecHash": "8ZE9Rb/viXIDz3J/GYGAbJxQfjQLmFeuWcqa1iOCTblP7Ih9le1i3Vts37mvyGkFAbclQJI5cErgcIBL6DxKAQ==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Memento\\Memento.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Memento\\Memento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

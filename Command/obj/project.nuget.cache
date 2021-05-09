@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lNyGzS2dhzX2qoUSECcPlmjsP6xsjz3EJZjtr5YhEFmKI7uDcHKBHYeivBBgUGQi6410xAbnI9X41gy6YxaObw==",
+  "dgSpecHash": "TGjbce//Tz5F7A7RCdfxdObSkoVl9poQBx+EnqQFMG+9bb83A+bAYyxhtxHSli8cXqOigXXSVI49scm1P/u+/w==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Command\\Command.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Command\\Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

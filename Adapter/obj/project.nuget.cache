@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Qxf73odR75G3VM64MQ8MZrIUTf95ZRgm+Uyx54k3XlUcLOdsYgOgO1xVXBI40OOrBbUgWdPvuO5WZsikNq692g==",
+  "dgSpecHash": "cWneDjSAjMFx42cduDotXjKJKgpQtiPJIEBsQmNEoPXYje0GRI3vbIRM9TcEIjsUW0aN/zrXiNSEZQRY9fqBcg==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MSI\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
-    "C:\\Users\\MSI\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\IvanJ\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\IvanJ\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

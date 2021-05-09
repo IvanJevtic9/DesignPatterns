@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q54PbuhABKTItOagMo81mIjYuiDUswa1uqM7A71OaGQHwXW9u7shjQEoCZvd43yCpYSSlGGG9ZTOjNi7f2+mwg==",
+  "dgSpecHash": "Kn0Df7JjW0K5T+QoYhtw+4kkkkcX45stu/F8Ly6M1fcDKWDe6yb7TjQvycPJqipdMnxQYVVtLhLxsVj8SJ5Tpw==",
   "success": true,
-  "projectFilePath": "D:\\source\\C# repos\\DesignPatterns\\Iterator\\Iterator.csproj",
+  "projectFilePath": "C:\\Users\\IvanJ\\Desktop\\C#\\DesignPatterns\\Iterator\\Iterator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

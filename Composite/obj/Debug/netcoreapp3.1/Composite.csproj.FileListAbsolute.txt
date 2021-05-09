@@ -11,3 +11,15 @@ D:\source\C# repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.cs
 D:\source\C# repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.dll
 D:\source\C# repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
 D:\source\C# repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\IvanJ\Desktop\C#\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
